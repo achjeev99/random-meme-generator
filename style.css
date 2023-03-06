@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Tilt+Neon&display=swap');
+
+.main-area{
+    margin: 20%;
+}
+
+.meme-area{
+    height: 25%;
+    width: 500px;
+}
+
+button{
+    height: 25%;
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Tilt Neon', cursive;
+}
+
+p {
+    text-align: center;
+    font-family: 'Tilt Neon', cursive;
+}
